@@ -21,5 +21,5 @@ Danach aktivierst du das Plugin in der Konfigurationsdatei.
 Demo
 ----
 
-<http://getherbie.org/feed.rss>
-<http://getherbie.org/feed.atom>
+<http://getherbie.org/rss.xml>  
+<http://getherbie.org/atom.xml>
