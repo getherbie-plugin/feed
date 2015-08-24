@@ -18,8 +18,31 @@ Danach aktivierst du das Plugin in der Konfigurationsdatei.
         enable:
             - feed
 
+
+## Konfiguration
+
+Unter *plugins.config.feed* stehen dir die folgenden Optionen zur Verfügung:
+
+    # if set no pages will be included (you do it manually)
+    no_page: false
+
+    # the [required] settings for your feeds
+    channel:
+        title: "The title of your feed"
+        link: "http://www.example.org"
+        description: "The description of your feed."
+        language: "de"
+        copyright: "Your name"
+
+
+## Eigene Seite
+
+Falls du mit `plugins.config.feed.no_page` das automatische Hinzufügen der Seiten deaktiviert hast, kannst
+du eigene Seiten hinzufügen. Wie eine solche Seite aufgebaut sein sollte, siehst du dir am Besten im Feed-Plugin an. 
+
+
 Demo
 ----
 
-<http://getherbie.org/rss.xml>  
-<http://getherbie.org/atom.xml>
+<http://www.getherbie.org/rss.xml>  
+<http://www.getherbie.org/atom.xml>
