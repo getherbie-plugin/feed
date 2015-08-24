@@ -1,12 +1,10 @@
-Herbie Feed Plugin
-======================
+# Herbie Feed Plugin
 
 `Feed` ist ein [Herbie](http://github.com/getherbie/herbie) Plugin, das aus deinen Seiten und Blogposts automatisch
 einen RSS- und einen Atom-Feed im XML-Format generiert und als Seiten bereit stellt.
 
 
-Installation
--------------
+## Installation
 
 Das Plugin installierst du via Composer.
 
@@ -41,8 +39,7 @@ Falls du mit `plugins.config.feed.no_page` das automatische Hinzufügen der Seit
 du eigene Seiten hinzufügen. Wie eine solche Seite aufgebaut sein sollte, siehst du dir am Besten im Feed-Plugin an. 
 
 
-Demo
-----
+## Demo
 
 <http://www.getherbie.org/rss.xml>  
 <http://www.getherbie.org/atom.xml>
