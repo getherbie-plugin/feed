@@ -41,5 +41,5 @@ du eigene Seiten hinzufügen. Wie eine solche Seite aufgebaut sein sollte, siehs
 
 ## Demo
 
-<https://www.getherbie.org/rss.xml>  
-<https://www.getherbie.org/atom.xml>
+<https://herbie.tebe.ch/rss.xml>  
+<https://herbie.tebe.ch/atom.xml>
